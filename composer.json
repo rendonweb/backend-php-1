@@ -1,0 +1,19 @@
+{
+    "name": "stevenrendon/backend-php-1",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven Rendon",
+            "email": "steven.rendon@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
